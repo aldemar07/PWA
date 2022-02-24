@@ -1,0 +1,23 @@
+{
+    "name": "Nubinesia.com",
+    "short_name": "Nubinesia",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgar06EjGszoAcjI9ARWRZJE8RSrFiZJl-9-Ag04bmY9kuJq7sPWhumT7Whq4A9gBmJ9yitBIipPRCEy_tfqAQsTWitLA_M3GI-EYEfMm56HBCGa_GJ_lsmcghtb444cPiyMdLZiBglm4TH5ZVugyPwupM6hdMTPdQ5XM31FSjP3jZRHxy1h_si3EfY=s192",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhi2PS_ZutMM0Q4pFbe0g1zXatwmuCw8mAIHSn_s3yIbDwolbQKY33_B47HfRmFRtSOziJHqRk-h9iobFi8Yr8St33GX4KnCSrpren6NT4-lyIjGndsWacr_DLywoYGHZVsG99_k07CkiUzNTQvJMaiBKy4uV71QDCmwYXIPlCYcNo-Ax_4JE54zMjr=s512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#f44336",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.nubinesia.com"
+}
